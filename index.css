@@ -1,0 +1,29 @@
+body {
+  font-size: 12px;
+  font-family: Arial, Verdana, sans-serif;
+  width: 7.5in;
+  margin: 15px auto;
+}
+
+#name {
+  font-size: 24px;
+}
+
+#contact-info {
+  float: right;
+  text-align: right;
+  font-size: 13px;
+}
+
+.mono {
+  font-family: monospace;
+}
+
+table {
+  font-size: 12px;
+  width: 100%;
+}
+
+td {
+  vertical-align: top;
+}
